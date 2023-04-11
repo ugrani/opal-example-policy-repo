@@ -10,6 +10,13 @@
     "bob": {
       "roles": ["employee", "billing"],
       "location": {
+        "country": "INDIA",
+        "ip": "8.8.8.8"
+      }
+    },
+    "raj": {
+      "roles": ["employee", "billing"],
+      "location": {
         "country": "US",
         "ip": "8.8.8.8"
       }
